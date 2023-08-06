@@ -1,4 +1,4 @@
-# README
+# Nginx + Terraform + Docker, load balancing and reverse proxied
 
 I created this project to experiment with Terraform's capabilities and see what I could come up with. This is free for anyone to use and learn from. I've outlined what files do what below, explaining the process.
 
